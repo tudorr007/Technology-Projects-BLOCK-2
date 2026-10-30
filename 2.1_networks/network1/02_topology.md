@@ -11,6 +11,7 @@ PC 1-5, switch, ethernet cable
 Insert your topology screenshot (saved inside `images/`).
 
 ```
-<img width="2106" height="1422" alt="image" src="https://github.com/user-attachments/assets/1ca98853-1299-4558-af1c-fbe6edfb6dd3" />
+
+
 
 ```
